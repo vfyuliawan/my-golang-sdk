@@ -1,7 +1,7 @@
 package json_response
 
 import (
-	"github.com/vfyuliawan/my-golang-sdk/core/core/base_response"
+	"github.com/vfyuliawan/my-golang-sdk/core/base_response"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

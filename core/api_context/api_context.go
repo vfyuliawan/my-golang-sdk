@@ -3,9 +3,9 @@ package api_context
 import (
 	"context"
 	"github.com/gin-gonic/gin"
-	"github.com/vfyuliawan/my-golang-sdk/core/core/api_constant"
-	"github.com/vfyuliawan/my-golang-sdk/core/core/audit"
-	"github.com/vfyuliawan/my-golang-sdk/core/core/base_response"
+	"github.com/vfyuliawan/my-golang-sdk/core/api_constant"
+	"github.com/vfyuliawan/my-golang-sdk/core/audit"
+	"github.com/vfyuliawan/my-golang-sdk/core/base_response"
 )
 
 const CacheStatefulSession = "CACHE_STATEFUL_SESSION"

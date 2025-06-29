@@ -1,8 +1,8 @@
 package base_response
 
 import (
-	"github.com/vfyuliawan/my-golang-sdk/core/core/api_constant"
-	"github.com/vfyuliawan/my-golang-sdk/core/core/env"
+	"github.com/vfyuliawan/my-golang-sdk/core/api_constant"
+	"github.com/vfyuliawan/my-golang-sdk/core/env"
 )
 
 type BaseResponse[T any] struct {
