@@ -1,4 +1,4 @@
-module github.com/vfyuliawan/my-golang-sdk/core
+module github.com/vfyuliawan/my-golang-sdk
 
 go 1.24.3
 
