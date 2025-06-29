@@ -1,10 +1,9 @@
 package json_response
 
 import (
+	"github.com/gin-gonic/gin"
 	"github.com/vfyuliawan/my-golang-sdk/core/base_response"
 	"net/http"
-
-	"github.com/gin-gonic/gin"
 )
 
 // Success wraps c.JSON for a success response and formats it as needed.
